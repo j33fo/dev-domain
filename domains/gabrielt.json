@@ -1,0 +1,11 @@
+{
+    "description": "Personal page",
+    "repo": "https://github.com/j33fo/j33fo.github.com",
+    "owner": {
+        "username": "j33fo",
+        "email": "jeefo.gost@gmail.com"
+    },
+    "record": {
+        "CNAME": "j33fo.github.io"
+    }
+}
