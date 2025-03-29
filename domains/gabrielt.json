@@ -5,7 +5,10 @@
         "email": "jeefo.gost@gmail.com"
         
     },
-    "record": {
-        "CNAME": "j33fo.github.io"
+  "record": {
+    "NS": [
+      "ns1.buyhostnow.com",
+      "ns2.buyhostnow.com"
+    ]
     }
 }
